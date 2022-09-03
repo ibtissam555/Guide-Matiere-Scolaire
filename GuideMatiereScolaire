@@ -1,0 +1,42 @@
+[{
+		"name": "Mathématiques",
+		"description": "Les mathématiques (ou la mathématique) sont un ensemble de connaissances abstraites résultant de raisonnements logiques appliqués à des objets divers tels que les ensembles mathématiques, les nombres, les formes, les structures, les transformations, etc. ainsi qu'aux relations et opérations mathématiques qui existent entre ces objets. Elles sont aussi le domaine de recherche développant ces connaissances, ainsi que la discipline qui les enseigne. Elles possèdent plusieurs branches telles que : l'arithmétique, l'algèbre, l'analyse, la géométrie, la logique mathématique, les probabilités, etc. Il existe également une certaine séparation entre les mathématiques pures et les mathématiques appliquées.",
+		"img": "https://media2.ledevoir.com/images_galerie/nwd_144894_110803/image.jpg"
+	
+	}, {
+		"name": "Informatique",
+		"description": "L'informatique est un domaine d'activité scientifique, technique, et industriel concernant le traitement automatique de l'information numérique par l'exécution de programmes informatiques hébergés par des dispositifs électriques-électroniques : des systèmes embarqués, des ordinateurs, des robots, des automates, etc. Ces champs d'application peuvent être séparés en deux branches : théorique : concerne la définition de concepts et modèles ; pratique : s'intéresse aux techniques concrètes de mise en œuvre.Certains domaines de l'informatique peuvent être très abstraits, comme la complexité algorithmique, et d'autres peuvent être plus proches d'un public profane. Ainsi, la théorie des langages demeure un domaine davantage accessible aux professionnels formés (description des ordinateurs et méthodes de programmation), tandis que les métiers liés aux interfaces homme-machine (IHM) sont accessibles à un plus large public.",
+		"img": "https://vfelogistique.com/wp-content/uploads/2013/03/A-Informatique1000.jpg"
+	
+	}, {
+		"name": "Histoire et Géographie",
+		"description": "Dans l'enseignement secondaire du système éducatif français, la matière consacrée aux sciences humaines se compose de l'histoire, la géographie et l'enseignement moral et civique au collège. Elle se poursuit accompagnée des sciences économiques et sociales au lycée général et technologique. Elle est rattachée aux Lettres au lycée professionnel. L'association de l'enseignement du temps historique et de l'espace géographique est une spécialité de la République française. Les programmes d'histoire et de géographie sont généralement séparés dans les autres pays du monde. Depuis la IIIe République, l'histoire des programmes d'histoire-géographie a évolué en fonction des ministères. Ces derniers sont aujourd'hui composés par le Conseil supérieur des programmes.",
+		"img": "https://static7.depositphotos.com/1252248/733/i/450/depositphotos_7338569-stock-photo-world-america.jpg"
+	
+	}, {
+		"name": "Sciences de la vie et de la terre",
+		"description": "L'expression sciences de la vie et de la Terre (SVT) est utilisée dans le système éducatif français pour désigner l'enseignement ayant trait à la biologie, aux géosciences et aux sujets connexes.",
+		"img": "https://www.mathassistance.fr/wp-content/uploads/2016/11/revisions-bac-svt-1.jpg"
+	
+	}, {
+		"name": "Technologie",
+		"description": "La technologie est l'étude des outils et des techniques. Le terme désigne les observations sur l'état de l'art aux diverses périodes historiques, en matière d'outils et de savoir-faire. Il comprend l'art, l'artisanat, les métiers, les sciences appliquées et éventuellement les connaissances.Par extension et abusivement, le mot désigne les systèmes ou méthodes d'organisation qui permettent les diverses technologies, ainsi que tous les domaines d'étude et les produits qui en résultent.",
+		"img": "https://technologiecollegesaliesdebearn.files.wordpress.com/2017/12/cropped-le-robot-garde-la-terre-planc3a8te-dans-des-mains-c3a0-la-technologie-de-pointe-illustration-d-conceptuelle-45485233.jpg"
+	
+	}, {
+		"name": "Education physique et sportive",
+		"description": "L'éducation physique (nommée éducation physique et sportive (EPS) dans certains pays) est le nom donné à une discipline scolaire d'enseignement utilisant les activités physiques, sportives et artistiques comme support dans une finalité éducative. On retrouve cette discipline dans le cadre scolaire notamment dans le système éducatif français ou dans le système éducatif québécois. C’est une pratique d’intervention et une discipline d’enseignement.",
+		"img": "https://le-cdn.website-editor.net/4d547255f7e5416b887acaeec44a7854/dms3rep/multi/opt/3bc9876a-5a2a-43b0-ae70-f89202151227-1920w.jpeg"
+	
+	}, {
+		"name": "Education musicale",
+		"description": "L’éducation musicale est une discipline qui s'occupe, d'une part, de l'enseignement et de l'apprentissage de la musique (académique, populaire et du monde) et, d'autre part, de l'éducation aux aspects sociaux et culturels du code sonore et des bruits dans notre monde actuel",
+		"img": "https://st2.depositphotos.com/1037921/5903/i/950/depositphotos_59034067-stock-photo-music-education.jpg"
+    
+	}, {
+		"name": "Physique chimie",
+		"description": "La physique-chimie est introduite dès le cycle 3 (CM1, CM2, 6e) dans le cadre de l'enseignement des sciences expérimentales et technologies1. Ces premières notions (par exemple, en physique, électricité, astronomie, et chimie, unités de mesure, mélanges, solutions, les différents états de la matière et les changements d'états...) sont introduites dans le cadre d'activités essentiellement expérimentales et de résolution de problèmes concrets, issus pour la plupart de la vie quotidienne, en lien avec les autres matières de la formation (sciences de la vie et de la Terre, technologie, informatique…). Ici le but n'est pas forcément l'accumulation de connaissances, mais plutôt l'initiation à la résolution de problèmes et l'éveil de la curiosité de l'élève, celui-ci étant en général confronté à une situation concrète, en autonomie, à partir de supports variés (manuels, expériences menées en classe ou à la maison, documents audio-vidéo, logiciels, animations interactives…). Le choix des expériences réalisées est laissé à la discrétion de l'enseignant, ainsi que le contenu exact des séquences. Quelques thèmes abordés (à dominante physique-chimie) : matière, mouvement, énergie, information ; la planète Terre. Les êtres vivants dans leur environnement.",
+		"img": "https://image.freepik.com/vecteurs-libre/science-chimie-physique-scientifique-decoratif-colore-esquisse-icones-definies-illustration-vectorielle-isole_98292-6700.jpg"
+	
+	}
+]
